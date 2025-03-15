@@ -1,7 +1,9 @@
 # Olá! 👋
 ## 👨🏽‍💻 Matheus Henrique Chaves
+- 📩 Email: matheushchv@gmail.com
 - 🏫 Cursando Engenharia de Software
 - 1° Semestre
+
 ## 👾 Tecnologias 
 <img 
     align="left" 
