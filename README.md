@@ -6,7 +6,7 @@
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Chaves0&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br)
 
-## Linguagens Mais Utilizadas
+## 🔧 Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Chaves0&layout=compact&theme=tokyonight)
 ## 👾 Tecnologias 
 <img 
