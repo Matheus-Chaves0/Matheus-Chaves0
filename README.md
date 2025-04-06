@@ -3,6 +3,11 @@
 - 📩 Email: matheushchv@gmail.com
 - 🏫 Cursando Engenharia de Software - 1° Semestre
 
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&rank_icon=github&locale=pt-br)
+
+## Linguagens Mais Utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
 ## 👾 Tecnologias 
 <img 
     align="left" 
