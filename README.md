@@ -7,8 +7,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Chaves0&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br)
 
 ## 👾 Tecnologias 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Chaves0&layout=compact&theme=tokyonight)
-
 <img 
     align="left" 
     alt="HTML"
@@ -32,6 +30,15 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"
+    style="margin-bottom: 30px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 /><br>
  
           
