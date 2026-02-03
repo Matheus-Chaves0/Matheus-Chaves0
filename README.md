@@ -1,7 +1,7 @@
 # Matheus-Chaves0
 ## 👨🏽‍💻 Matheus Henrique Chaves
 - 📩 Email: matheushchv@gmail.com
-- 🏫 Cursando Engenharia de Software - 1° Semestre
+- 🏫 Cursando Engenharia de Software - 3° Semestre
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Chaves0&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br)
